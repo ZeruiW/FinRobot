@@ -2,7 +2,8 @@ pyautogen>=0.2.19
 ipython
 huggingface_hub
 matplotlib
-
+python-dotenv
+gradio
 # financial libraries
 finnhub-python
 yfinance

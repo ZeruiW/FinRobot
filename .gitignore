@@ -13,3 +13,4 @@ coding/
 projects/
 dist/
 tmp/
+*.env
